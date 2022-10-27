@@ -5,12 +5,18 @@ const Port = process.env.Port || 5000;
 const cors = require('cors');
 app.use(cors());
 
+const options = require('./data/course-options.json');
+
 
 
 
 //testing
 app.get('/', (req, res) => {
     res.send('app gets response from server ')
+})
+
+app.get('/course-options', (req, res) => {
+    res.send(options);
 })
 
 
