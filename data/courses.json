@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "JAVA",
-        "price": 109,
+        "price": "$ 109",
         "description": "Java is one of the most popular programming languages out there. Released in 1995 and still widely used today, Java has many applications, including software development, mobile applications, and large systems development. Knowing Java opens a lot of possibilities for you as a developer.",
         "category": "Object-Oriented-Programming",
         "duration": "58 hr",
@@ -16,7 +16,7 @@
     {
         "id": 2,
         "name": "PYTHON",
-        "price": 22.3,
+        "price": "$ 22.3",
         "description": "Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because Python code is concise and easy to read. Whatever you want to do, python can do it. From web development to machine learning to data science, Python is the language for you.",
         "category": "Object-Oriented-Programming",
         "image": "https://img.freepik.com/premium-photo/python-programming-code-abstract-technology-background_272306-146.jpg?w=740",
@@ -30,7 +30,7 @@
     {
         "id": 3,
         "name": "C",
-        "price": 55.99,
+        "price": "$ 55.99",
         "description": "C has been around for quite some time and it is one of the foundational languages of computer science. Most operating systems today, including the Linux Kernel, are implemented with C code. The main version of the Python programming language is named CPython because it is implemented using C. The C programming language is everywhere, learning it will help you become a better programmer ready for the next challenge in any field of computer science!",
         "category": "Procedural Programming",
         "duration": "54 hr",
@@ -44,7 +44,7 @@
     {
         "id": 4,
         "name": "C++",
-        "price": 15.99,
+        "price": "$ 15.99",
         "description": "C++ is a very popular language for performance-critical applications that rely on speed and efficient memory management. It’s used in a wide range of industries including software and game development, VR, robotics, and scientific computing.",
         "category": "Object-Oriented-Programming",
         "image": "https://image.shutterstock.com/image-illustration/c-plus-abstract-concept-blue-600w-528261487.jpg",
@@ -58,7 +58,7 @@
     {
         "id": 5,
         "name": "C#",
-        "price": 695,
+        "price": "$ 69.5",
         "description": "C# is one of the most popular programming languages. It can be used for a variety of things, including mobile applications, game development, and enterprise software. Knowing C# opens a great deal of doors for you as a developer.",
         "category": "Object-Oriented-Programming",
         "duration": "38 hr",
@@ -72,7 +72,7 @@
     {
         "id": 6,
         "name": "PHP ",
-        "price": 168,
+        "price": "$ 48",
         "description": "PHP is a general-purpose scripting language widely used as a server-side language for creating dynamic web pages. Though its reputation is mixed, PHP is still extremely popular and is used in over 75% of all websites where the server-side programming language is known.",
         "category": "Object-Oriented-Programming",
         "duration": "45 hr",

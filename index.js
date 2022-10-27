@@ -7,10 +7,13 @@ app.use(cors());
 
 
 
+
 //testing
 app.get('/', (req, res) => {
     res.send('app gets response from server ')
 })
+
+
 
 
 

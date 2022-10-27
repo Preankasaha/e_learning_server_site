@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "JAVA",
+        "price": 109 
+    },
+    {
+        "id": 2,
+        "name": "PYTHON",
+        "price": 22.3
+    },
+    {
+        "id": 3,
+        "name": "C",
+        "price": 55.99
+    
+    },
+    {
+        "id": 4,
+        "name": "C++",
+        "price": 15.99
+        
+    },
+    {
+        "id": 5,
+        "name": "C#",
+        "price": 695
+   
+    },
+    {
+        "id": 6,
+        "name": "PHP ",
+        "price": 168
+      
+    }
+]
