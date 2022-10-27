@@ -7,7 +7,7 @@ app.use(cors());
 
 const options = require('./data/course-options.json');
 
-
+const courses = require('./data/courses.json');
 
 
 //testing
@@ -19,6 +19,9 @@ app.get('/course-options', (req, res) => {
     res.send(options);
 })
 
+app.get('/courses', (req, res) => {
+    res.send(courses);
+})
 
 
 
